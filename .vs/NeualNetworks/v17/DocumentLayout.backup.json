@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Works\\\uC5C5\uBB34 \uC11C\uB958\\\uD559\uBD80 \uC218\uC5C5 \uC9C4\uD589\\2025-2\\\uC790\uB8CC\uAD6C\uC870 \uC2E4\uC2B5\\\uD300\uD504\uB85C\uC81D\uD2B8\\NeualNetworks\\",
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\NeualNetworks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B3C62CC-82E5-4E68-816D-FF64F9DCBD26}|NeualNetworks.vcxproj|D:\\Works\\\uC5C5\uBB34 \uC11C\uB958\\\uD559\uBD80 \uC218\uC5C5 \uC9C4\uD589\\2025-2\\\uC790\uB8CC\uAD6C\uC870 \uC2E4\uC2B5\\\uD300\uD504\uB85C\uC81D\uD2B8\\NeualNetworks\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4B3C62CC-82E5-4E68-816D-FF64F9DCBD26}|NeualNetworks.vcxproj|C:\\Users\\pc\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\NeualNetworks\\Dense.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B3C62CC-82E5-4E68-816D-FF64F9DCBD26}|NeualNetworks.vcxproj|solutionrelative:Dense.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3C62CC-82E5-4E68-816D-FF64F9DCBD26}|NeualNetworks.vcxproj|C:\\Users\\pc\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\NeualNetworks\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4B3C62CC-82E5-4E68-816D-FF64F9DCBD26}|NeualNetworks.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3C62CC-82E5-4E68-816D-FF64F9DCBD26}|NeualNetworks.vcxproj|C:\\Users\\pc\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\NeualNetworks\\Timer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B3C62CC-82E5-4E68-816D-FF64F9DCBD26}|NeualNetworks.vcxproj|solutionrelative:Timer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3C62CC-82E5-4E68-816D-FF64F9DCBD26}|NeualNetworks.vcxproj|C:\\Users\\pc\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\NeualNetworks\\Ops.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B3C62CC-82E5-4E68-816D-FF64F9DCBD26}|NeualNetworks.vcxproj|solutionrelative:Ops.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3C62CC-82E5-4E68-816D-FF64F9DCBD26}|NeualNetworks.vcxproj|C:\\Users\\pc\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\NeualNetworks\\Matrix.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B3C62CC-82E5-4E68-816D-FF64F9DCBD26}|NeualNetworks.vcxproj|solutionrelative:Matrix.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +38,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Timer.hpp",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\NeualNetworks\\Timer.hpp",
+              "RelativeDocumentMoniker": "Timer.hpp",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\NeualNetworks\\Timer.hpp",
+              "RelativeToolTip": "Timer.hpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwDMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-05T17:26:16.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ops.hpp",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\NeualNetworks\\Ops.hpp",
+              "RelativeDocumentMoniker": "Ops.hpp",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\NeualNetworks\\Ops.hpp",
+              "RelativeToolTip": "Ops.hpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-05T17:26:05.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\Works\\\uC5C5\uBB34 \uC11C\uB958\\\uD559\uBD80 \uC218\uC5C5 \uC9C4\uD589\\2025-2\\\uC790\uB8CC\uAD6C\uC870 \uC2E4\uC2B5\\\uD300\uD504\uB85C\uC81D\uD2B8\\NeualNetworks\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\NeualNetworks\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "D:\\Works\\\uC5C5\uBB34 \uC11C\uB958\\\uD559\uBD80 \uC218\uC5C5 \uC9C4\uD589\\2025-2\\\uC790\uB8CC\uAD6C\uC870 \uC2E4\uC2B5\\\uD300\uD504\uB85C\uC81D\uD2B8\\NeualNetworks\\main.cpp*",
-              "RelativeToolTip": "main.cpp*",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAIwKAAAAAWAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\NeualNetworks\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAUwOsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-09T06:43:24.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dense.hpp",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\NeualNetworks\\Dense.hpp",
+              "RelativeDocumentMoniker": "Dense.hpp",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\NeualNetworks\\Dense.hpp",
+              "RelativeToolTip": "Dense.hpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-05T17:24:58.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Matrix.hpp",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\NeualNetworks\\Matrix.hpp",
+              "RelativeDocumentMoniker": "Matrix.hpp",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\NeualNetworks\\Matrix.hpp",
+              "RelativeToolTip": "Matrix.hpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-05T17:25:52.955Z",
               "EditorCaption": ""
             }
           ]

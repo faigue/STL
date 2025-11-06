@@ -21,6 +21,7 @@
 #include "Timer.hpp"
 #include "Trainer.hpp"
 #include "Ops.hpp"
+#include <cstring>
 
 
 using namespace vsnn;
@@ -84,11 +85,30 @@ static void StandardizeCovertype(Matrix& X) {
 	(void)D; // 나머지 44개는 0/1 그대로 유지
 }
 
+static void GatherRows(const Matrix& X, const vector<int>& y,
+	const vector<int>& idx, Matrix& Xo, vector<int>& yo) {
+	const int N = (int)idx.size();
+	const int D = X.Cols();
 
-static void GatherRows(const Matrix& X, const vector<int>& y, const vector<int>& idx, Matrix& Xo, vector<int>& yo) {
-	const int N = (int)idx.size(), D = X.Cols();
-	Xo.Reset(N, D); yo.resize(N);
-	for (int i = 0; i < N; ++i) { int n = idx[i]; for (int d = 0; d < D; ++d) Xo(i, d) = X(n, d); yo[i] = y[n]; }
+	Xo.Reset(N, D);
+	yo.resize(N);
+
+	// Matrix::Raw()가 std::vector<vsnn::f32> (연속 메모리) 를 참조로 돌려준다는 전제
+	const auto& src = X.Raw();   // const std::vector<vsnn::f32>&
+	auto& dst = Xo.Raw();        // std::vector<vsnn::f32>&
+
+	const float* src_base = src.data(); // ★ 포인터는 여기서 하나만 얻고
+	float* dst_base = dst.data();       //   오프셋만 더해 사용
+
+	for (int i = 0; i < N; ++i) {
+		const int n = idx[i];
+		std::memcpy(
+			/*dest*/ dst_base + (size_t)i * D,
+			/*src */ src_base + (size_t)n * D,
+			sizeof(float) * (size_t)D
+		);
+		yo[i] = y[n];
+	}
 }
 
 

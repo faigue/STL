@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\NeualNetworks 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3C62CC-82E5-4E68-816D-FF64F9DCBD26}|NeualNetworks.vcxproj|C:\\NeualNetworks 2\\Dense.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B3C62CC-82E5-4E68-816D-FF64F9DCBD26}|NeualNetworks.vcxproj|solutionrelative:Dense.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3C62CC-82E5-4E68-816D-FF64F9DCBD26}|NeualNetworks.vcxproj|C:\\NeualNetworks 2\\Layer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B3C62CC-82E5-4E68-816D-FF64F9DCBD26}|NeualNetworks.vcxproj|solutionrelative:Layer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3C62CC-82E5-4E68-816D-FF64F9DCBD26}|NeualNetworks.vcxproj|C:\\NeualNetworks 2\\Matrix.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B3C62CC-82E5-4E68-816D-FF64F9DCBD26}|NeualNetworks.vcxproj|solutionrelative:Matrix.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3C62CC-82E5-4E68-816D-FF64F9DCBD26}|NeualNetworks.vcxproj|C:\\NeualNetworks 2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B3C62CC-82E5-4E68-816D-FF64F9DCBD26}|NeualNetworks.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\NeualNetworks 2\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\NeualNetworks 2\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-09T06:43:24.993Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Matrix.hpp",
+              "DocumentMoniker": "C:\\NeualNetworks 2\\Matrix.hpp",
+              "RelativeDocumentMoniker": "Matrix.hpp",
+              "ToolTip": "C:\\NeualNetworks 2\\Matrix.hpp",
+              "RelativeToolTip": "Matrix.hpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-05T09:57:07.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Layer.hpp",
+              "DocumentMoniker": "C:\\NeualNetworks 2\\Layer.hpp",
+              "RelativeDocumentMoniker": "Layer.hpp",
+              "ToolTip": "C:\\NeualNetworks 2\\Layer.hpp",
+              "RelativeToolTip": "Layer.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-05T09:08:04.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dense.hpp",
+              "DocumentMoniker": "C:\\NeualNetworks 2\\Dense.hpp",
+              "RelativeDocumentMoniker": "Dense.hpp",
+              "ToolTip": "C:\\NeualNetworks 2\\Dense.hpp*",
+              "RelativeToolTip": "Dense.hpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-05T08:16:49.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
